@@ -1,0 +1,30 @@
+.footer {
+     
+  position: fixed;
+  background-color: #022B32;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 35px;
+  text-align: center;
+
+}
+
+.text {
+position: absolute;
+width: 145px;
+height: 24px;
+left: 29px;
+top: calc(50% - 24px/2);
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+text-transform: uppercase;
+
+color: #FFFFFF;
+}
